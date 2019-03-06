@@ -1,6 +1,8 @@
 
 <!-- see https://rmarkdown.rstudio.com/authoring_bibliographies_and_citations.html for citation details -->
 
+<!-- github markdown https://guides.github.com/features/mastering-markdown/ -->
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque
 porttitor orci eget elementum ultricies. Nullam mattis elit mi, ac
 mattis dui cursus vel. Aenean viverra porta aliquet. Nulla nec nulla
@@ -32,6 +34,8 @@ gravida enim. Suspendisse libero dui, molestie et venenatis vitae,
 vehicula quis augue. Maecenas dignissim mi ut sapien tincidunt bibendum.
 
 [Introduction](md/intro)
+
+[This site](https://aghaynes.github.io/demo/)
 
 # References
 
